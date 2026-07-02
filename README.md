@@ -1,7 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Bruno Yamaguchi
 
-<img src="https://tenor.com/pt-BR/view/angry-typing-kitty-gif-224838385848627934"/>
+
 
 <!--
 **brnyamaguchi/brnyamaguchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
