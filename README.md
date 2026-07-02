@@ -1,5 +1,5 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Bruno Yamaguchi
+### 👋 Hello! Welcome to my Github profile.
+#### My name is Bruno Yamaguchi
 
 
 
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Ferramentas e Tecnologias## Ferramentas e Tecnologias
+#### Ferramentas e Tecnologias## Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" />
 ## Contatos:
 <div>
